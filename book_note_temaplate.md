@@ -1,6 +1,6 @@
 ---
 title: "{{title}} - Book Note"
-subtitle: “"
+subtitle: ""
 author:
   - 
 publisher: ""
