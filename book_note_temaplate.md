@@ -2,7 +2,7 @@
 title: "{{title}} - Book Note"
 subtitle: ""
 author:
-  - 
+  - ""
 publisher: ""
 cover_url: 
 copyright: 
